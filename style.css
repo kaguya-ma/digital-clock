@@ -1,0 +1,16 @@
+p {
+  font-size: 2rem;
+  background-color: black;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+div {
+  margin: 0 auto;
+}
+
+body {
+  text-align: center;
+}
